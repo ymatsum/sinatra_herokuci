@@ -1,2 +1,2 @@
 # Heroku CI sample
-[![Heroku CI Status](https://ci-badges.herokuapp.com/pipelines/b0ce72d2-fd40-4c9a-a4af-f9d8bbf7cf3d/master.svg)](https://dashboard.heroku.com/pipelines/b0ce72d2-fd40-4c9a-a4af-f9d8bbf7cf3d/tests)
+[![Heroku CI Status](https://ci-badges.herokuapp.com/pipelines/95f727fc-11ae-4c66-9e06-67c1738fff98/master.svg)](https://dashboard.heroku.com/pipelines/95f727fc-11ae-4c66-9e06-67c1738fff98/tests)
